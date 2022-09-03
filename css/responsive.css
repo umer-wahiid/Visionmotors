@@ -146,7 +146,7 @@ Design and Developed by: potenzaglobalsolutions.com
     .mega-menu .menu-links > li:last-child { border-bottom: 0px; }
     .search-top.search-top-open .search-box { top: 52px !important;  }
     #header.defualt { position: relative; background: #323232; }
-    #header.light .mega-menu .menu-mobile-collapse-trigger:before,  #header.light .mega-menu .menu-mobile-collapse-trigger:after,  #header.light .mega-menu .menu-mobile-collapse-trigger span { background: #db2d2e; }
+    #header.light .mega-menu .menu-mobile-collapse-trigger:before,  #header.light .mega-menu .menu-mobile-collapse-trigger:after,  #header.light .mega-menu .menu-mobile-collapse-trigger span { background: steelblue; }
     .welcome-block p { padding: 0px; }
     .feature-box { margin-bottom: 30px; }
     .welcome-block .halp-call { margin-top: 30px; }
@@ -167,7 +167,7 @@ Design and Developed by: potenzaglobalsolutions.com
     .why-choose .feature-box { margin-bottom: 30px; }
     .why-choose.page-section-pt { padding-bottom: 50px; }
     /*home-3*/
-    .topbar-dark .mega-menu .menu-mobile-collapse-trigger:before, .topbar-dark .mega-menu .menu-mobile-collapse-trigger:after, .topbar-dark .mega-menu .menu-mobile-collapse-trigger span { background: #db2d2e; }
+    .topbar-dark .mega-menu .menu-mobile-collapse-trigger:before, .topbar-dark .mega-menu .menu-mobile-collapse-trigger:after, .topbar-dark .mega-menu .menu-mobile-collapse-trigger span { background: steelblue; }
     .mega-menu { min-height: 62px; }
     #header.topbar-dark .mega-menu .menu-logo { padding: 20px 0px; }
     #header.fancy .mega-menu .menu-logo { padding: 20px 0px; }
@@ -183,7 +183,7 @@ Design and Developed by: potenzaglobalsolutions.com
     /*home-4*/
     #header.fancy .menu { position: relative; top: 0px; }
     #header.fancy .topbar { padding: 10px 0px; }
-    #header.fancy .mega-menu .menu-mobile-collapse-trigger:before,  #header.fancy .mega-menu .menu-mobile-collapse-trigger:after,  #header.fancy .mega-menu .menu-mobile-collapse-trigger span { background: #db2d2e; }
+    #header.fancy .mega-menu .menu-mobile-collapse-trigger:before,  #header.fancy .mega-menu .menu-mobile-collapse-trigger:after,  #header.fancy .mega-menu .menu-mobile-collapse-trigger span { background: steelblue; }
     #header.fancy .mega-menu > section.menu-list-items { padding: 0px; }
     .quick-links .link a:hover h6 { padding-top: 0px; }
     .custom-block-3 img { margin-top: 30px; }
@@ -230,7 +230,7 @@ Design and Developed by: potenzaglobalsolutions.com
     .timeline > li > .timeline-panel:before { border-left-width: 0; border-right-width: 15px; left: -15px; right: auto; }
     .timeline > li > .timeline-panel:after { border-left-width: 0; border-right-width: 14px; left: -14px; right: auto; }
     .timeline > li:not(.timeline-inverted) { padding-right: 0px; padding-left: 90px; }
-    .timeline > li:hover > .timeline-panel:after{ border-right-color: #db2d2e;  }
+    .timeline > li:hover > .timeline-panel:after{ border-right-color: steelblue;  }
     
     .search .search-block .select-styled { padding: 13px 9px; }
     .objects-left { display: none; }
