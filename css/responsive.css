@@ -76,7 +76,7 @@ Design and Developed by: potenzaglobalsolutions.com
     /*car-single*/
      .car-listing-sidebar .isotope.column-5 .grid-item { width: 25%; }
      /*car-directory*/
-     .topbar li, .topbar li a { font-size: 13px; }
+     .bartop li, .bartop li a { font-size: 13px; }
     
     }
     
@@ -87,9 +87,9 @@ Design and Developed by: potenzaglobalsolutions.com
     }
     
     @media (max-width: 1199px) {
-    .topbar-left.text-left { text-align: center; }
+    .bartop-left.text-left { text-align: center; }
     #header .container-fluid { padding: 0 15px; }
-    #header.header-dark.topbar-dark [class*='col-']  { text-align: center; }
+    #header.header-dark.bartop-dark [class*='col-']  { text-align: center; }
     
       }
     
@@ -114,7 +114,7 @@ Design and Developed by: potenzaglobalsolutions.com
      .our-expert-team .row-eq-height { display: block; }
     /*car-directory*/
      .mega-menu .menu-links > li > a { padding: 0 10px; }
-     #header.header-dark.topbar-dark ul.submit-button  li a.button { padding: 4px 8px; }
+     #header.header-dark.bartop-dark ul.submit-button  li a.button { padding: 4px 8px; }
     
     }
     @media only screen and (min-width:991px) and (max-width:1200px) {
@@ -132,10 +132,21 @@ Design and Developed by: potenzaglobalsolutions.com
     .page-section-pb { padding-bottom: 60px; }
     
     /* home 1 */
-    #header .topbar-left.text-left, #header .topbar-right.text-right { text-align: center; }
+
+    .about-img img {
+      height: 320px;
+      width: 365px;
+    }
+    .about_img{
+      max-height: 1000px;
+      height: 320px;
+      width: 365px;
+    }
+    #header .bartop-left.text-left, #header .bartop-right.text-right { text-align: center; }
     .mega-menu .menu-logo > li > a { padding: 0px;  }
-    .mega-menu .menu-logo { padding: 20px 0; }
-    .mega-menu .menu-logo img { height: 24px; }
+    .mega-menu .menu-logo { padding: 4px 0; }
+    .mega-menu .menu-logo img {height: 40px;width: 270px; }
+    .mega-menu .menu-logo #logo_img {height: 56px;width: 270px; }
     .mega-menu .menu-mobile-collapse-trigger { margin-top: 9px; }
     .mega-menu .menu-links { border:1px solid #e3e3e3; position: absolute; top: 100%; }
     .mega-menu .menu-links > li { line-height: 44px; }
@@ -145,7 +156,7 @@ Design and Developed by: potenzaglobalsolutions.com
     .search-top { padding: 19px 20px; }
     .mega-menu .menu-links > li:last-child { border-bottom: 0px; }
     .search-top.search-top-open .search-box { top: 52px !important;  }
-    #header.defualt { position: relative; background: #323232; }
+    #header.bydefault { position: relative; background: #323232; }
     #header.light .mega-menu .menu-mobile-collapse-trigger:before,  #header.light .mega-menu .menu-mobile-collapse-trigger:after,  #header.light .mega-menu .menu-mobile-collapse-trigger span { background: steelblue; }
     .welcome-block p { padding: 0px; }
     .feature-box { margin-bottom: 30px; }
@@ -160,45 +171,6 @@ Design and Developed by: potenzaglobalsolutions.com
     .footer-2 .social { margin-bottom: 30px; }
     .footer-2 .footer-box { margin-bottom: 30px; }
     .copyright .text-left, .copyright .text-right { text-align: center; }
-    /*home-2*/
-    .content-box { margin-bottom: 30px; }
-    .counter.counter-style-1.counter-light ul { display: inline-block; width: 100%; background: #ffffff; }
-    .testimonial-2 .testimonial-center { width: 100%; }
-    .why-choose .feature-box { margin-bottom: 30px; }
-    .why-choose.page-section-pt { padding-bottom: 50px; }
-    /*home-3*/
-    .topbar-dark .mega-menu .menu-mobile-collapse-trigger:before, .topbar-dark .mega-menu .menu-mobile-collapse-trigger:after, .topbar-dark .mega-menu .menu-mobile-collapse-trigger span { background: steelblue; }
-    .mega-menu { min-height: 62px; }
-    #header.topbar-dark .mega-menu .menu-logo { padding: 20px 0px; }
-    #header.fancy .mega-menu .menu-logo { padding: 20px 0px; }
-    #header.light .mega-menu .menu-logo { padding: 20px 0px; }
-    .search .search-block span { font-size: 12px; }
-    .content-box-2.car-bg-1 { padding: 30px 30px 30px; }
-    .content-box-2.car-bg-2 { padding: 30px 30px 30px; }
-    .content-box-2.car-bg-3 { padding: 30px 30px 30px; }
-    .blog-2 { margin-bottom: 30px; }
-    .footer-3 .footer-nav.text-right, .footer-3 .social.text-lg-right { text-align: center; margin: 20px 0px; }
-    .footer-3.footer-topbar img { text-align: center; display: block; margin: 0 auto; }
-    .footer-3 .about-content { margin-bottom: 30px; }
-    /*home-4*/
-    #header.fancy .menu { position: relative; top: 0px; }
-    #header.fancy .topbar { padding: 10px 0px; }
-    #header.fancy .mega-menu .menu-mobile-collapse-trigger:before,  #header.fancy .mega-menu .menu-mobile-collapse-trigger:after,  #header.fancy .mega-menu .menu-mobile-collapse-trigger span { background: steelblue; }
-    #header.fancy .mega-menu > section.menu-list-items { padding: 0px; }
-    .quick-links .link a:hover h6 { padding-top: 0px; }
-    .custom-block-3 img { margin-top: 30px; }
-    .quick-links { margin-bottom: 50px; min-height: auto; }
-    .custom-block-3 img { width: 100%; }
-    /*home-5*/
-    .feature-car-area .feature-box-2.text-right { text-align: left; }
-    .isotope .car-item .car-list li { font-size: 12px; padding: 0px 2px; }
-    .footer-3 .social  { margin-bottom: 40px; }
-    .footer-3 .usefull-link { margin-bottom: 50px; }
-    .feature-car-area img { display: none; }
-    /*home-6*/
-    .recent-vehicle .isotope.column-5 .grid-item { width: 33.333%; }
-    .content-box-main .container { width: 100%; }
-    .welcome-4 .feature-box { margin-bottom: 0px; margin-top: 40px; }
     /*inner page*/
     .inner-intro h1 { font-size: 30px; }
     .opening-hours strong { width: 90px; }
@@ -251,39 +223,15 @@ Design and Developed by: potenzaglobalsolutions.com
     /*************************************
                 Version 2.0 css
     **************************************/
-    #header.topbar-dark.logo-center .mega-menu .menu-links > li { float: left; display: block; }
-    
-    /*home-7*/
-    #header.topbar-dark.logo-right .mega-menu .menu-logo > li { float: right; }
-    #header.topbar-dark.logo-right .mega-menu .menu-logo > li > a { float: right; }
-    #header.topbar-dark.logo-right .mega-menu .menu-mobile-collapse-trigger { right: inherit; left: 0; }
-    #header.topbar-dark .mega-menu .menu-links > li:first-child > a { padding-left: 10px; }
-    
-    .welcome-5.bg-8 { background: #f6f6f6; }
-    .welcome-5 .counter.counter-style-1.counter-light ul { background: transparent; }
-    .welcome-5 .counter.counter-style-1.counter-light ul li { border:0; }
-    .bg-9 { overflow: hidden; }
-    .isotope-filters.vartical-filter { display: block; }
-    .isotope-banner { display: none; }
-    
-    /*home 8*/
-    #header.topbar-dark.logo-center .mega-menu .menu-logo > li > a img { margin: inherit; }
-    #header.topbar-dark.logo-center .mega-menu .menu-logo { padding: 20px 0px 10px; }
-    .search-block.find-car img { display: none; }
-    .play-video-2-section .custom-block-2  { margin-top: 40px; }
-    .play-video-2 img { width: 100%; }
-    
-    /*home-10*/
-    .search-here .search-block { margin-top: 40px; }
-    .search-here .search-block .search-top-2 label { display: inline-block; }
-    .custom-block-5 .counter { margin-bottom: 0; padding-bottom: 20px; }
+    #header.bartop-dark.logo-center .mega-menu .menu-links > li { float: left; display: block; }
+
     /*new update*/
     .mega-menu .drop-down ul, .mega-menu .drop-down ol, .mega-menu .drop-down dl, .mega-menu .drop-down-tab-bar ul, .mega-menu .drop-down-tab-bar ol, .mega-menu .drop-down-tab-bar dl {  margin-bottom: 0; }
     .mega-menu .drop-down [class*="grid-col-"], .mega-menu .drop-down-tab-bar [class*="grid-col-"] { padding: 0 10px; }
     .mega-menu .drop-down a, .mega-menu .drop-down-tab-bar a  { padding: 0; }
     
-    #header.topbar-dark.logo-center .mega-menu.desktopTopFixed .menu-links { float: none; }
-    #header.topbar-dark.logo-center .mega-menu.desktopTopFixed .menu-logo { float: none; }
+    #header.bartop-dark.logo-center .mega-menu.desktopTopFixed .menu-links { float: none; }
+    #header.bartop-dark.logo-center .mega-menu.desktopTopFixed .menu-logo { float: none; }
     
     /*************************************
                 Version 2.2 css
@@ -313,12 +261,12 @@ Design and Developed by: potenzaglobalsolutions.com
     .bg-11 { background: transparent; }
     
     /*car-directory*/
-    #header.header-dark.topbar-dark ul.submit-button { position: absolute; right: 40px; top: 0; }
-    #header.header-dark.topbar-dark .mega-menu .menu-logo { padding: 20px 0px; }
-    #header.header-dark.topbar-dark ul.submit-button { padding: 8px 0; }
-    #header.header-dark.topbar-dark ul.submit-button li a.button { padding: 0px 9px; font-size: 13px; }
-    #header.header-dark.topbar-dark .mega-menu .menu-links > li { line-height: 44px; }
-    #header.header-dark.topbar-dark .mega-menu .menu-links > li > a { color: #323232; }
+    #header.header-dark.bartop-dark ul.submit-button { position: absolute; right: 40px; top: 0; }
+    #header.header-dark.bartop-dark .mega-menu .menu-logo { padding: 20px 0px; }
+    #header.header-dark.bartop-dark ul.submit-button { padding: 8px 0; }
+    #header.header-dark.bartop-dark ul.submit-button li a.button { padding: 0px 9px; font-size: 13px; }
+    #header.header-dark.bartop-dark .mega-menu .menu-links > li { line-height: 44px; }
+    #header.header-dark.bartop-dark .mega-menu .menu-links > li > a { color: #323232; }
     .vehicle-tab .tab-hiiden, .search-banner .tab-hiiden { display: none; }
     
     .search-top { display: block !important; float: none; padding: 19px 0px; margin-left: 0; }
@@ -358,7 +306,7 @@ Design and Developed by: potenzaglobalsolutions.com
     .footer .social ul li { display: inline-block; text-align: center; }
     .footer .social ul li a i { padding-left: 10px; }
     .footer-2 .keep-touch { margin-bottom: 30px; }
-    .footer-3.footer-topbar .top { margin-bottom: 40px; }
+    .footer-3.footer-bartop .top { margin-bottom: 40px; }
     .footer hr { margin-top: 40px; border-color: rgba(255, 255, 255, 0.11);}
     .content-box-2.car-bg-1, .content-box-2.car-bg-2 { margin-bottom: 30px; }
     .content-box-2.car-bg-1, .content-box-2.car-bg-2, .content-box-2.car-bg-3 { background-size: cover; background-position: center; }
@@ -447,7 +395,7 @@ Design and Developed by: potenzaglobalsolutions.com
     .car-directory-banner .search-tab .car-total { float: left !important; }
     
     .search-here .search-block{padding: 0px 15px;}
-    .footer-3.footer-topbar .copyright{ margin-top: 60px; }
+    .footer-3.footer-bartop .copyright{ margin-top: 60px; }
     .car-directory-banner .search-tab .tabs-header{ display: inherit; }
     .car-directory-banner .search-tab .tabs-header .car-total{ margin-left: inherit; }
     .car-directory-banner .search-tab #search-tabs ul.nav-tabs{ margin: 15px 0; }
@@ -577,9 +525,9 @@ Design and Developed by: potenzaglobalsolutions.com
     .dealer-box .box-content { display: block; margin-bottom: 20px; }
     .car-directory-banner.slider-parallax { height: 150vh; }
     .latest-blog .blog-button .text-right { text-align: left; }
-    #header.header-dark.topbar-dark .topbar-profile ul li a { padding: 0 7px; }
-    #header.header-dark.topbar-dark ul.submit-button li a.button { display: none; }
-    #header.header-dark.topbar-dark ul.submit-button { right: 20px; }
+    #header.header-dark.bartop-dark .bartop-profile ul li a { padding: 0 7px; }
+    #header.header-dark.bartop-dark ul.submit-button li a.button { display: none; }
+    #header.header-dark.bartop-dark ul.submit-button { right: 20px; }
     
     }
     @media print {
