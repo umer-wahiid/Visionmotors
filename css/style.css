@@ -888,7 +888,7 @@ select {
       Background
 ***********************/
 .bg-1 {
-  background: url(../images/bg/01.jpg);
+  background: url(../images/bg/one.jpg);
   background-clip: initial;
   background-color: rgba(0, 0, 0, 0);
   background-origin: initial;
@@ -901,7 +901,7 @@ select {
 }
 
 .bg-2 {
-  background: url(../images/bg/02.jpg);
+  background: url(../images/bg/two.jpg);
   background-clip: initial;
   background-color: rgba(0, 0, 0, 0);
   background-origin: initial;
@@ -914,7 +914,7 @@ select {
 }
 
 .bg-3 {
-  background: url(../images/bg/03.jpg);
+  background: url(../images/bg/three.jpg);
   background-clip: initial;
   background-color: rgba(0, 0, 0, 0);
   background-origin: initial;
@@ -927,7 +927,7 @@ select {
 }
 
 .bg-4 {
-  background: url(../images/bg/04.jpg);
+  background: url(../images/bg/four.jpg);
   background-clip: initial;
   background-color: rgba(0, 0, 0, 0);
   background-origin: initial;
@@ -938,7 +938,7 @@ select {
 }
 
 .bg-5 {
-  background: url(../images/bg/05.jpg);
+  background: url(../images/bg/five.jpg);
   background-clip: initial;
   background-color: rgba(0, 0, 0, 0);
   background-origin: initial;
@@ -949,7 +949,7 @@ select {
 }
 
 .bg-6 {
-  background: url(../images/bg/06.jpg);
+  background: url(../images/bg/six.jpg);
   background-clip: initial;
   background-color: rgba(0, 0, 0, 0);
   background-origin: initial;
@@ -962,7 +962,7 @@ select {
 }
 
 .bg-7 {
-  background: url(../images/bg/07.jpg);
+  background: url(../images/bg/seven.jpg);
   background-clip: initial;
   background-color: rgba(0, 0, 0, 0);
   background-origin: initial;
@@ -4418,17 +4418,17 @@ footer .copyright ul li a:hover {
 }
 
 .content-box-2.car-bg-1 {
-  background: url(../images/car/08.jpg) no-repeat;
+  background: url(../images/car/eight.jpg) no-repeat;
   padding: 30px 30px 154px;
 }
 
 .content-box-2.car-bg-2 {
-  background: url(../images/car/09.jpg) no-repeat;
+  background: url(../images/car/nine.jpg) no-repeat;
   padding: 30px 30px 154px;
 }
 
 .content-box-2.car-bg-3 {
-  background: url(../images/car/10.jpg) no-repeat;
+  background: url(../images/car/ten.jpg) no-repeat;
   padding: 30px 30px 154px;
 }
 
@@ -4500,17 +4500,17 @@ footer .copyright ul li a:hover {
 }
 
 .content-box-4.car-bg-1 {
-  background: url(../images/car/15.jpg) no-repeat;
+  background: url(../images/car/fifteen.jpg) no-repeat;
   background-size: cover;
 }
 
 .content-box-4.car-bg-2 {
-  background: url(../images/car/16.jpg) no-repeat;
+  background: url(../images/car/sixteen.jpg) no-repeat;
   background-size: cover;
 }
 
 .content-box-4.car-bg-3 {
-  background: url(../images/car/17.jpg) no-repeat;
+  background: url(../images/car/seventeen.jpg) no-repeat;
   background-size: cover;
 }
 
@@ -8224,7 +8224,7 @@ label:after {
 **************************************/
 
 .bg-10 {
-  background-image: url(../images/bg/10.png);
+  background-image: url(../images/bg/one0.png);
   background-clip: initial;
   background-color: #f6f6f6;
   background-origin: initial;
